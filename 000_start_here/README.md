@@ -1,3 +1,4 @@
+add some stuff here from Mike palmer
 # 000 — Start Here: Git & GitHub Setup
 
 Do this once before starting the following exercises. If you've used
